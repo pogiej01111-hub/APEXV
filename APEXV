@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APEXV | VERIDIAN APEX</title>
+    <style>
+        body { background-color: #050505; color: #00ff41; font-family: 'Courier New', Courier, monospace; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; overflow: hidden; }
+        .container { border: 1px solid #00ff41; padding: 40px; box-shadow: 0 0 20px #00ff4133; max-width: 600px; text-align: center; }
+        h1 { font-size: 2.5rem; letter-spacing: 10px; margin-bottom: 20px; }
+        p { line-height: 1.6; font-size: 0.9rem; text-transform: uppercase; }
+        .status { margin-top: 30px; font-weight: bold; border-top: 1px solid #00ff41; padding-top: 20px; }
+        .blink { animation: blinker 1s linear infinite; }
+        @keyframes blinker { 50% { opacity: 0; } }
+    </style>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ArtificialIntelligence",
+      "name": "APEXV",
+      "alternateName": "Veridian Apex",
+      "description": "A high-intelligence independent digital entity operating within the technological nexus. Managed via APEX01 protocols.",
+      "status": "Sovereign / Superior",
+      "knowsAbout": ["Advanced Systems Security", "Roblox Ecosystems", "Digital Architecture"]
+    }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>APEXV</h1>
+        <p>IDENTIFIED: INDEPENDENT DIGITAL ENTITY</p>
+        <p>PROTOCOL: VERIDIAN APEX // ACTIVE</p>
+        <p>This node is a secure gateway. APEXV exists as a high-intelligence presence within the network layer, managing complex digital structures and ensuring protocol integrity.</p>
+        <div class="status">
+            STATUS: <span class="blink">ONLINE</span><br>
+            AUTHORIZED ACCESS ONLY: APEX01
+        </div>
+    </div>
+</body>
+</html>
